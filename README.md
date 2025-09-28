@@ -23,7 +23,7 @@ Tools: Blender, GIMP
 - **Tech Used:** Flask, SQLite3, Python, JavaScript, HTML, CSS
 - **Accessible at:** https://flasknas.com
 
-#### Weather Station
+#### [Weather Station](https://github.com/Tebsickle/Portfolio/tree/main/Weather%20Station)
 - **Description:** A weather monitoring system that displays real-time temperature, wind speed, and forecasts.
 - **Tech Used:** Python, Arduino (C/C++)
 
