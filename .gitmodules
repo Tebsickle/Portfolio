@@ -4,3 +4,6 @@
 [submodule "Nightfall"]
 	path = Nightfall
 	url = https://github.com/Tebsickle/Nightfall
+[submodule "Dungeon-Duels"]
+	path = Dungeon-Duels
+	url = https://github.com/Tebsickle/Dungeon-Duels.git
