@@ -13,7 +13,9 @@ I’m an NC State student passionate about hardware and game development. I enjo
 
 ### Skills
 Programming: Python, Java, JavaScript, HTML, CSS
+
 Tech Stack: Docker, Nginx, Flask, SQLite3, Brigadier
+
 Tools: Blender, GIMP
 
 ### Projects
