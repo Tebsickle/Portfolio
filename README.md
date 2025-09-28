@@ -17,8 +17,9 @@ Tech Stack: Docker, Nginx, Flask, SQLite3, Brigadier
 Tools: Blender, GIMP
 
 ### Projects
+Will grant permission to view projects marked "Private" upon request.
 
-#### [FlaskNAS](https://github.com/Tebsickle/FlaskNAS)
+#### [FlaskNAS](https://github.com/Tebsickle/FlaskNAS) (Private)
 - **Description:** A file-hosting webapp allowing uploading, downloading, and managing of files through a web interface.
 - **Tech Used:** Flask, SQLite3, Python, JavaScript, HTML, CSS
 - **Accessible at:** https://flasknas.com
@@ -27,7 +28,7 @@ Tools: Blender, GIMP
 - **Description:** A weather monitoring system that displays real-time temperature, wind speed, and forecasts.
 - **Tech Used:** Python, Arduino (C/C++)
 
-#### [Nightfall](https://github.com/Tebsickle/Nightfall)
+#### [Nightfall](https://github.com/Tebsickle/Nightfall) (Private)
 - **Description:** A custom Minecraft datapack that adds new difficulty.
 - **Tech Used:** JSON, Brigadier
 
