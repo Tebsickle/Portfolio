@@ -30,10 +30,10 @@ Will grant permission to view projects marked "Private" upon request.
 - **Description:** A weather monitoring system that displays real-time temperature, wind speed, and forecasts.
 - **Tech Used:** Python, Arduino (C/C++)
 
-#### [Nightfall](https://github.com/Tebsickle/Nightfall) (Private)
+#### [Nightfall](https://github.com/Tebsickle/Nightfall)
 - **Description:** A custom Minecraft datapack that adds new difficulty.
 - **Tech Used:** JSON, Brigadier
 
-#### [Dungeon Duels](https://github.com/Tebsickle/Dungeon-Duels)
+#### [Dungeon Duels](https://github.com/Tebsickle/Dungeon-Duels) (Private)
 - **Description:** A turn-based strategy board game made for Tabletop Simulator.
 - **Tech Used:** GIMP, Tabletop Simulator
