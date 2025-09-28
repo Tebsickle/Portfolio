@@ -8,7 +8,7 @@ No permission is granted to use, copy, modify, or redistribute any part of this 
 # Sam Smithers - Portfolio
 
 ### About Me
-I’m an NC State student passionate about hardware and game development. I enjoy prototyping and exploring how software and hardware can come together to bring ideas to life.
+I am a North Carolina State student passionate about hardware and game development. I enjoy prototyping and exploring how software and hardware can come together to bring ideas to life.
 
 
 ### Skills
