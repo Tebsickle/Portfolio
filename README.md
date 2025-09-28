@@ -31,6 +31,6 @@ Tools: Blender, GIMP
 - **Description:** A custom Minecraft datapack that adds new difficulty.
 - **Tech Used:** JSON, Brigadier
 
-#### Dungeon Duels
+#### [Dungeon Duels](https://github.com/Tebsickle/Dungeon-Duels)
 - **Description:** A turn-based strategy board game made for Tabletop Simulator.
 - **Tech Used:** GIMP, Tabletop Simulator
