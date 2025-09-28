@@ -1,0 +1,3 @@
+[submodule "FlaskNAS"]
+	path = FlaskNAS
+	url = https://github.com/Tebsickle/FlaskNAS
