@@ -1,3 +1,6 @@
 [submodule "FlaskNAS"]
 	path = FlaskNAS
 	url = https://github.com/Tebsickle/FlaskNAS
+[submodule "Nightfall"]
+	path = Nightfall
+	url = https://github.com/Tebsickle/Nightfall
