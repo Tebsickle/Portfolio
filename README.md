@@ -27,7 +27,7 @@ Tools: Blender, GIMP
 - **Description:** A weather monitoring system that displays real-time temperature, wind speed, and forecasts.
 - **Tech Used:** Python, Arduino (C/C++)
 
-#### Nightfall
+#### [Nightfall](https://github.com/Tebsickle/Nightfall)
 - **Description:** A custom Minecraft datapack that adds new difficulty.
 - **Tech Used:** JSON, Brigadier
 
