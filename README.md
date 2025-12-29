@@ -1,10 +1,3 @@
-# License
-
-Copyright (c) 2025 Sam Smithers. All rights reserved.
-
-This repository is provided for personal portfolio and demonstration purposes only.  
-No permission is granted to use, copy, modify, or redistribute any part of this repo without explicit written consent from the author.
-
 # Sam Smithers - Portfolio
 
 ### About Me
@@ -37,3 +30,10 @@ Will grant permission to view projects marked "Private" upon request.
 #### [Dungeon Duels](https://github.com/Tebsickle/Dungeon-Duels) (Private)
 - **Description:** A turn-based strategy board game made for Tabletop Simulator.
 - **Tech Used:** GIMP, Tabletop Simulator
+
+# License
+
+Copyright (c) 2025 Sam Smithers. All rights reserved.
+
+This repository is provided for personal portfolio and demonstration purposes only.  
+No permission is granted to use, copy, modify, or redistribute any linked repo, as well as this one, without explicitly written otherwise, or given explicit written permission from the author.
