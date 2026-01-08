@@ -36,4 +36,4 @@ Will grant permission to view projects marked "Private" upon request.
 Copyright (c) 2025 Sam Smithers. All rights reserved.
 
 This repository is provided for personal portfolio and demonstration purposes only.  
-No permission is granted to use, copy, modify, or redistribute any linked repo, as well as this one, without explicitly written otherwise, or given explicit written permission from the author.
+No permission is granted to use, copy, modify, or redistribute any linked repo, as well as this one, unless explicitly written otherwise, or given explicit written permission from the author.
